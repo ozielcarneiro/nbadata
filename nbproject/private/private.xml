@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/ozielcarneiro/NetBeansProjects/NBAData/src/dataStoring/Xml2DB.java</file>
+            <file>file:/Users/ozielcarneiro/NetBeansProjects/NBAData/src/entityControllers/PlayerJpaController.java</file>
+            <file>file:/Users/ozielcarneiro/NetBeansProjects/NBAData/src/dataProcessing/Html2Xml.java</file>
+            <file>file:/Users/ozielcarneiro/NetBeansProjects/NBAData/src/entity/Team.java</file>
+            <file>file:/Users/ozielcarneiro/NetBeansProjects/NBAData/src/entityControllers/TeamJpaController.java</file>
+            <file>file:/Users/ozielcarneiro/NetBeansProjects/NBAData/src/entity/Player.java</file>
+            <file>file:/Users/ozielcarneiro/NetBeansProjects/NBAData/src/spareCode/EntityTest.java</file>
+        </group>
+    </open-files>
+</project-private>
